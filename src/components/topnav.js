@@ -7,7 +7,7 @@ export default function TopNavigation() {
     <div>
       <div className="mainheader">
         <div className="right">
-          <a href="https://zenexia-codepad.netlify.app/">
+          <a href="https://zenexia-home.netlify.app">
             <img className="logo" src={logo} alt="aa" />
           </a>
           <div className="text">
