@@ -36,7 +36,7 @@ function App() {
         <h1>Log-In to Zenexia</h1>
         <br></br>
         <br></br>
-        <form action="https://zenexia-codepad.netlify.app/">
+        <form action="https://zenexia-home.netlify.app/">
           <input
             onChange={handler}
             value={contact.email}
